@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Menu -->
+    <string name="action_settings">सेटिंग</string>
+    <string name="language_setting">भाषा बदलें</string>
+    <string name="hello">नमस्ते दुनिया !</string>
+    <string name="hello_second">यह एक और गतिविधि है</string>
+    <string name="welcome">स्वागतम</string>
+    <string name="hello_boy">हैलो लड़के</string>
+    <string name="third_activity">तीसरी गतिविधि</string>
+    <string name="hello_girl">हैलो लड़की</string>
+    <string name="one">एक</string>
+    <string name="two">दो</string>
+    <string name="three">तीन</string>
+    <string name="dead_end_ahead">मृत अंत <b>वापस जाओ</b></string>
+    <string name="cancel">रद्द करे</string>
+    <string name="change">बदले</string>
+    <string name="lang_dialog_title">भाषा चुनिए</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>अंग्रेज़ी</item>
+        <item>हिंदी</item>
+    </string-array>
+</resources>
